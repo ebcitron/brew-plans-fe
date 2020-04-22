@@ -1,160 +1,125 @@
-🚫 Note: All lines that start with 🚫 are instructions and should be deleted before this is posted to your portfolio. This is intended to be a guideline, feel free to add your own flare to it.
+# Brew Plans
 
-🚫 The numbers 1️⃣ through 5️⃣ next to each item represent the week that part of the docs needs to be comepleted by.  Make sure to delete the numbers by the end of Labs.
+You can find the deployed project at
 
-🚫 Each student has a required minimum number of meaningful PRs each week per the rubric. Contributing to docs does NOT count as a PR to meet your weekly requirements.
+## Labs 19
 
-# 1️⃣ Title of project goes here
-
-1️⃣ You can find the deployed project at [🚫URL NAME GOES HERE](🚫copy and paste URL here).
-
-## 4️⃣ Contributors
-
-🚫Add contributor info below, make sure add images and edit the social links for each member. Add to or delete these place-holders as needed
-
-|                                       [Student 1](https://github.com/)                                        |                                       [Student 2](https://github.com/)                                        |                                       [Student 3](https://github.com/)                                        |                                       [Student 4](https://github.com/)                                        |                                       [Student 5](https://github.com/)                                        |
-| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-|                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/)                       |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/)                       |
-|                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                 |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/honda0306)             |           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Mister-Corn)            |          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/NandoTheessen)           |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah)             |
-| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
+|                                 [Tavis Laudahl](https://github.com/tlaudahl)                                  |                               [Jasmine Charles](https://github.com/mynameisjasmine)                                |                                   [Sydney Blom](https://github.com/sydneyblom)                                   |                               [TL - Elijah McKay](https://github.com/ElijahMcKay)                                |
+| :-----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+|  [<img src="https://avatars0.githubusercontent.com/u/19698780" width = "200" />](https://github.com/tlaudahl)  | [<img src="https://avatars2.githubusercontent.com/u/44042194" width = "200" />](https://github.com/mynameisjasmine) | [<img src="https://avatars3.githubusercontent.com/u/36520297" width = "200" />](https://github.com/sydneyblom)  | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/ElijahMcKay)  |
+|             [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/tlaudahl)              |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/mynameisjasmine)             |             [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sydneyblom)             |             [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/ElijahMcKay)             |
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |   [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)    | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
 
 <br>
 <br>
 
-🚫 4️⃣ Optional examples of using images with links for your tech stack, make sure to change these to fit your project
+## Contributors
+
+|                                 [Colin de Vries](https://github.com/dvcolin)                                  |                               [Justin Renninger](https://github.com/VulpineReynard)                                |                                   [Eli Citron](https://github.com/ebcitron)                                   |                               [Preston Middleton](https://github.com/Garuda27)                                |
+| :-----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+|  [<img src="https://avatars3.githubusercontent.com/u/46186956" width = "200" />](https://github.com/dvcolin)  | [<img src="https://avatars1.githubusercontent.com/u/10450837" width = "200" />](https://github.com/VulpineReynard) | [<img src="https://avatars0.githubusercontent.com/u/45603390" width = "200" />](https://github.com/ebcitron)  | [<img src="https://avatars0.githubusercontent.com/u/51134692" width = "200" />](https://github.com/Garuda27)  |
+|             [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/dvcolin)              |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/VulpineReynard)             |             [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/ebcitron)             |             [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Garuda27)             |
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |   [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)    | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
+
+<br>
+<br>
+
+|                               [Shannon Yoshikawa](https://github.com/shannonyoshi)                               |                                  [Jeff Butler](https://github.com/jeffbutlerspringdale)                                  |                                      [Luis Villafranca](https://www.linkedin.com/in/luisdoesux/)                                      |                                                       [Student](https://github.com/.....)                                                        |
+| :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars0.githubusercontent.com/u/49451907" width = "200" />](https://github.com/shannonyoshi) | [<img src="https://avatars2.githubusercontent.com/u/48844462" width = "200" />](https://github.com/jeffbutlerspringdale) | [<img src="https://ca.slack-edge.com/T4JUEB3ME-UEREV82G7-8977f69d863b-512" width = "200" />](https://www.linkedin.com/in/luisdoesux/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/.....) |
+|            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/shannonyoshi)             |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/jeffbutlerspringdale)             |                             [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                             |                                             [<img src="https://github.com/favicon.ico" width="15"> ]                                             |
+|  [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)   |      [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)       |      [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/luisdoesux/)      |                  [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                   |
+
+<br>
+<br>
 
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 ![React](https://img.shields.io/badge/react-v16.7.0--alpha.2-blue.svg)
-![Typescript](https://img.shields.io/npm/types/typescript.svg?style=flat)
+![Redux](https://img.shields.io/badge/redux-v4.0.4-blueviolet)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](netlify link goes in these parenthesis)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-🚫 more info on using badges [here](https://github.com/badges/shields)
-
 ## Project Overview
 
-1️⃣ [Trello Board](🚫add link to trello board here)
+[Trello Board](https://trello.com/b/jNQMsvi9/labs19-brew-plans)
 
-1️⃣ [Product Canvas](🚫add link to product canvas here)
+[Product Canvas](https://www.notion.so/Brew-Plans-84229482fc5d43db823089c26b0e1882)
 
-1️⃣ [UX Design files](🚫add link to design files here) - 🚫 delete if not applicable
+[UX Design files](https://www.figma.com/file/WwJrZl2JKhyAxw6TBwII7C/Brew-Plans)
 
-🚫 Replace lorem ipsum with a description of your project
+Brew Plans is a native mobile app for coffee connoisseurs that allow users to create, view, update, and delete recipes. In addition, Brew Plans provides recipes for new users, detailing how to create tried and trusted coffee recipes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Key Features
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- User Sign Up and Login
+- User sign in with Google
+- User can view provided recipes, along with steps and timers for those recipes
+- User can view, create, update, and delete their own recipes
+- User can add steps to their recipe, along with timers with a specified duration
 
-
-### 4️⃣ Key Features
-
--    feature one
--    feature two
--    feature three
--    feature four
--    feature five
-
-## 1️⃣ Tech Stack
+## Tech Stack
 
 ### Front end built using:
 
-#### _Front end framework goes here_
+#### React Native
 
-🚫 Why did you choose this framework?
+Why did you choose this framework?
 
--    point one
--    point two
--    point three
--    point four
+- Similar to React, which all developers have experience with
+- Widely used and supported
+- Many libraries and dependencies that work with React Native
+- Can create native apps for both Android and iOS
 
-🚫List the rest of the front end features and libraries in the same format as the framework above.
+Front End Libraries:
 
-#### Front end deployed to `🚫insert service here`
+- React Native Paper
+- React Native TextInput Effects
 
-#### [Back end](🚫link to back end repo here) built using:
+#### Front end deployed to `N/A`
 
-#### 🚫 back end framework goes here
+#### [Back end](https://github.com/Lambda-School-Labs/brew-plans-be) built using:
 
--    point one
--    point two
--    point three
+#### NodeJS
 
-🚫 List the rest of the back end end features and libraries in the same format as the framework above
+- NodeJS
+- PostgreSQL
+- SQLite
+- Firebase
 
 # APIs
 
-## 2️⃣ Authentication API here
+## Firebase
 
-🚫Replace text below with a description of the API
+Firebase allows us to store users who sign in with Google easily.
 
-Water's like me. It's laaazy ... Boy, it always looks for the easiest way to do things A little happy sunlight shining through there. Let all these little things happen. Don't fight them. Learn to use them. Even the worst thing we can do here is good.
-
-## 2️⃣ Payment API here
-
-🚫Replace text below with a description of the API
-
-This is the way you take out your flustrations. Get away from those little Christmas tree things we used to make in school. Isn't it fantastic that you can change your mind and create all these happy things? Everything's not great in life, but we can still find beauty in it.
-
-## 3️⃣ Misc API here
-
-🚫Replace text below with a description of the API
-
-You can do anything your heart can imagine. In life you need colors. This is where you take out all your hostilities and frustrations. It's better than kicking the puppy dog around and all that so. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Trees get lonely too, so we'll give him a little friend. We'll lay all these little funky little things in there.
-
-## 3️⃣ Misc API here
-
-🚫Replace text below with a description of the API
-
-When you do it your way you can go anywhere you choose. Let your heart take you to wherever you want to be. If I paint something, I don't want to have to explain what it is. A tree needs to be your friend if you're going to paint him. That's a son of a gun of a cloud. Even the worst thing we can do here is good.
-
-## 3️⃣ Misc API here
-
-🚫Replace text below with a description of the API
-
-Volunteering your time; it pays you and your whole community fantastic dividends. Maybe there's a happy little waterfall happening over here. You can spend all day playing with mountains. We don't have to be committed. We are just playing here. You have freedom here. The only guide is your heart. It's cold, but it's beautiful.
-
-# 3️⃣ Environment Variables
+# Environment Variables
 
 In order for the app to function correctly, the user must set up their own environment variables. There should be a .env file containing the following:
 
-🚫These are just examples, replace them with the specifics for your app
+- apiKey: AIzaSyDZKLP2FGiOx0aMXeDjAc3MOWSQa9pvJQg
+- authDomain: brew-plans.firebaseapp.com
+- databaseURL: https://brew-plans.firebaseio.com
+- projectId: brew-plans
+- storageBucket: brew-plans.appspot.com
+- messagingSenderId: 449923889220
+- appId: 1:449923889220:web:61af8a8355e54b3fba2411
+- measurementId: G-01P13B1Q2M
 
-    *  REACT_APP_apiKey - this is your Google API key, which can be generated in the Google Cloud Console
-    *  REACT_APP_authDomain - when you set up your Firebase project, this information will be in the dashboard
-    *  REACT_APP_databaseURL - in the Firebase dashboard
-    *  REACT_APP_projectID - in the Firebase dashboard
-    *  REACT_APP_storageBucket - in the Firebase dashboard
-    *  REACT_APP_messagingSenderId - in the Firebase dashboard
-    *  REACT_APP_stripe_API - this is your public Stripe API key, generated in the Stripe dashboard
-    *  REACT_APP_backendURL - optional for your local development server
-    *  REACT_APP_clientid - this is the Stripe_connect clientID, generated in Stripe_connect settings
-    *  REACT_APP_stripe_plan - this is the ID for a second Stripe subscription plan, generated under Stripe products
-
-# 5️⃣ Content Licenses
-
-🚫For all content - images, icons, etc, use this table to document permission of use. Remove the two placeholders and add you content to this table
+# Content Licenses
 
 | Image Filename | Source / Creator | License                                                                      |
 | -------------- | ---------------- | ---------------------------------------------------------------------------- |
 | doodles.png    | Nicole Bennett   | [Creative Commons](https://www.toptal.com/designers/subtlepatterns/doodles/) |
 | rings.svg      | Sam Herbert      | [MIT](https://github.com/SamHerbert/SVG-Loaders)                             |
 
-# 4️⃣ Testing
+# Installation Instructions
 
-🚫Document what you used for testing and why
-
-# 4️⃣ Installation Instructions
-
-🚫explain how to install the required dependencies to get this project up and running with yarn and NPM
+1. cd frontend
+2. npm i
 
 ## Other Scripts
 
-🚫replace these examples with your own
-
-    * typecheck - runs the TypeScript compiler
-    * build - creates a build of the application
-    * start - starts the production server after a build is created
-    * test - runs tests in **tests** directory \* eject - copy the configuration files and dependencies into the project so you have full control over them
+    N/A
 
 # Contributing
 
@@ -163,12 +128,20 @@ When contributing to this repository, please first discuss the change you wish t
 Please note we have a [code of conduct](./CODE_OF_CONDUCT.md). Please follow it in all your interactions with the project.
 
 ## Issue/Bug Request
-   
- **If you are having an issue with the existing project code, please submit a bug report under the following guidelines:**
- - Check first to see if your issue has already been reported.
- - Check to see if the issue has recently been fixed by attempting to reproduce the issue using the latest master branch in the repository.
- - Create a live example of the problem.
- - Submit a detailed bug report including your environment & browser, steps to reproduce the issue, actual and expected outcomes,  where you believe the issue is originating from, and any potential solutions you have considered.
+
+**If you are having an issue with the existing project code, please submit a bug report under the following guidelines:**
+
+- Check first to see if your issue has already been reported.
+- Check to see if the issue has recently been fixed by attempting to reproduce the issue using the latest master branch in the repository.
+- Create a live example of the problem.
+- Submit a detailed bug report including your environment & browser, steps to reproduce the issue, actual and expected outcomes, where you believe the issue is originating from, and any potential solutions you have considered.
+
+## Known Bugs
+
+1. Instructions are *null* on recipe creation so it returns a 500 error. The recipe is created and you can view it under My Recipes in the app. When you touch that recipe and click start brew, the step's arent there because of the instructions being *null* when sent to the server. [RecipeFormComponent](https://github.com/Lambda-School-Labs/brew-plans-fe/blob/master/frontend/src/components/UserForms/RecipeFormComponent.js)
+2. When you add a recipe and click to add another recipe, all the inputs are still filled out with data from the last recipe that was added. The previous group set it up and the inputs aren't being handled in a normal way with local state, but being handled with redux and a custom function. Will probably have to redo that component without input being handled by redux.
+3. Also after adding a recipe and you try to make a new one, there will be an error from **this.handleDurationChange** which will cause the app to stop working and hang. The app needs to be restarted or it will just be stuck loading. The error is from the same component as #2 which is [RecipeFormComponent](https://github.com/Lambda-School-Labs/brew-plans-fe/blob/master/frontend/src/components/UserForms/RecipeFormComponent.js)
+4. When you login and then logout - the email and password fields aren't cleared. Might not be a *huge* bug but for security reasons at least the password input should clear on login. [LoginForm](https://github.com/Lambda-School-Labs/brew-plans-fe/blob/master/frontend/src/components/UserForms/LoginForm.js)
 
 ### Feature Requests
 
@@ -194,4 +167,4 @@ These contribution guidelines have been adapted from [this good-Contributing.md-
 
 ## Documentation
 
-See [Backend Documentation](🚫_link to your backend readme here_) for details on the backend of our project.
+See [Backend Documentation](https://github.com/Lambda-School-Labs/brew-plans-be) for details on the backend of our project.
